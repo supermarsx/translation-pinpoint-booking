@@ -4,7 +4,7 @@ Translations for software.
 
 ## Translations
 
-### Portuguese - Portugal pt-PT
+### Portuguese - Portugal, pt-PT
 
 #### Pinpoint Booking System WordPress Plugin 2.9.4 ([pinpoint.world](https://pinpoint.world/))
 
