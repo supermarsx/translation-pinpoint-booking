@@ -1,6 +1,6 @@
-# translations
+# translation-pinpoint-booking
 
-Translations for software.
+Translations for Pinpoint Booking Plugin
 
 ## Translations
 
